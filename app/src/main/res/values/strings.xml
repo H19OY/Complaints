@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Complaints</string>
+
+    <array name="List">
+    <item>Delay to Connect</item>
+    <item>Wrong Results</item>
+    <item>Not Working</item>
+    <item>Glitches</item>
+    <item>No Music</item>
+    </array>
+
+</resources>
